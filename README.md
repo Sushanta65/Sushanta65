@@ -9,6 +9,9 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -29,12 +32,6 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-</a>
 
 <br/>
 
