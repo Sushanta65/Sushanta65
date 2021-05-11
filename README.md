@@ -1,4 +1,3 @@
-<img width="150px" style="border-radius: 50px" src="https://avatars.githubusercontent.com/u/72559602?v=4">
 
 <h2> Hey there! I'm Susanto Chandra.</h2>
 
