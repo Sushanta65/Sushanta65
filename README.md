@@ -33,7 +33,7 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="github.com/Sushanta65" />
+  <img height="180em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 </a>
 
 <br/>
