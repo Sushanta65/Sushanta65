@@ -38,7 +38,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://susanto-portfolio.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sushanta.gq-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://susanto-portfolio.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-susanto-portfolio.web.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/susanto-chandra/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Susanto%20Chandra%20Das-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sushanta.wd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Susanto Chandra-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:susanto.chandra001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-susanto.chandra001@gmail.com-blue?style=flat-square&logo=gmail"></a>
