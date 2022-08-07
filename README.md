@@ -2,10 +2,12 @@
 <h2> Hey there! I'm Susanto Chandra Das.</h2>
 
 <h3> About Me </h3>
-I'm a JavaScript Developer working with MERN Stack. <br/> A self-taught passionate FrontEnd developer.<br/>
-📧 &nbsp; You can reach me via <a href="https://susanto-portfolio.web.app/">Click Here.</a> <br/>
+<p style="margin-bottom: 5px">I'm a JavaScript Developer working with MERN Stack. <br/> A self-taught passionate FrontEnd developer.<br/></p>
+🎓 &nbsp; Expert on FrontEnd with React.js and React Native. <br/>
+🎓 &nbsp; Can be work on BackEnd with Node.js, Express.js and DB: NoSql = MongoDB <br/>
 🛠 &nbsp; Enjoy to solve prolems. <a href="https://susanto-portfolio.web.app/">Solved Problems.</a> <br/>
-🖥 &nbsp; Some Big Project I'v done. <a href="https://susanto-portfolio.web.app/">Take a Tour.</a>
+🖥 &nbsp; Some Big Project I'v done. <a href="https://susanto-portfolio.web.app/">Take a Tour.</a> <br/>
+📧 &nbsp; You can reach me via <a href="https://susanto-portfolio.web.app/">Click Here.</a> <br/>
 
 <!--🤔 &nbsp; 
 🎓 &nbsp; 
