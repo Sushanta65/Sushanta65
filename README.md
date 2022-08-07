@@ -2,8 +2,11 @@
 <h2> Hey there! I'm Susanto Chandra Das.</h2>
 
 <h3> About Me </h3>
-I'm a JavaScript Developer working with MERN Stack. A self-taught passionate FrontEnd developer.<br/>
-📧 &nbsp; You can reach me via <a href="https://susanto-portfolio.web.app/">Click Here</a> <br/>
+I'm a JavaScript Developer working with MERN Stack. <br/> A self-taught passionate FrontEnd developer.<br/>
+📧 &nbsp; You can reach me via <a href="https://susanto-portfolio.web.app/">Click Here.</a> <br/>
+🛠 &nbsp; Enjoy to solve prolems. <a href="https://susanto-portfolio.web.app/">Solved Problems.</a> <br/>
+🖥 &nbsp; Some Big Project I'v done. <a href="https://susanto-portfolio.web.app/">Take a Tour.</a>
+
 <!--🤔 &nbsp; 
 🎓 &nbsp; 
 💼 &nbsp;
