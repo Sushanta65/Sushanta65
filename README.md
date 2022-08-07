@@ -1,28 +1,31 @@
 
 <h2> Hey there! I'm Susanto Chandra Das.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-I'm a JavaScript Developer working with MERN Stack.
-- 🤔 &nbsp; 
-- 🎓 &nbsp; 
-- 💼 &nbsp;
-- 🌱 &nbsp;
-- ✍️ &nbsp;
+<h3> About Me </h3>
+I'm a JavaScript Developer working with MERN Stack.<br/>
+📧 &nbsp; You can reach me via <a href="https://susanto-portfolio.web.app/">Click Here</a> <br/>
+🤔 &nbsp; 
+🎓 &nbsp; 
+💼 &nbsp;
+🌱 &nbsp;
+✍️ &nbsp;
+📧 &nbsp;
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;I'm For</h3>
 
-- 💻 &nbsp;
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Tailwind Css](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -32,6 +35,8 @@ I'm a JavaScript Developer working with MERN Stack.
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+  ![Photoshop](https://img.shields.io/badge/-slack-333333?style=flat&logo=slack)
+
 
 <br/>
 
