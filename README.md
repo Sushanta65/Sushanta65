@@ -8,6 +8,7 @@
 🛠 &nbsp; Enjoy to solve prolems. <a href="https://susanto-portfolio.web.app/">Solved Problems.</a> <br/>
 🖥 &nbsp; Some Big Project I'v done. <a href="https://susanto-portfolio.web.app/">Take a Tour.</a> <br/>
 📧 &nbsp; You can reach me via <a href="https://susanto-portfolio.web.app/">Click Here.</a> <br/>
+💼 &nbsp; I'm Open To Work.
 
 <!--🤔 &nbsp; 
 🎓 &nbsp; 
