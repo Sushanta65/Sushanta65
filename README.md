@@ -4,12 +4,12 @@
 <h3> About Me </h3>
 I'm a JavaScript Developer working with MERN Stack.<br/>
 📧 &nbsp; You can reach me via <a href="https://susanto-portfolio.web.app/">Click Here</a> <br/>
-🤔 &nbsp; 
+<!--🤔 &nbsp; 
 🎓 &nbsp; 
 💼 &nbsp;
 🌱 &nbsp;
 ✍️ &nbsp;
-📧 &nbsp;
+📧 &nbsp; -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -17,12 +17,11 @@ I'm a JavaScript Developer working with MERN Stack.<br/>
 <h3> 🛠 &nbsp;I'm For</h3>
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Tailwind Css](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 - 🛢 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
@@ -32,10 +31,9 @@ I'm a JavaScript Developer working with MERN Stack.<br/>
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 - 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-  ![Photoshop](https://img.shields.io/badge/-slack-333333?style=flat&logo=slack)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+  ![Slack](https://img.shields.io/badge/-slack-333333?style=flat&logo=slack)
 
 
 <br/>
