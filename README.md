@@ -1,8 +1,8 @@
 
-<h2> Hey there! I'm Susanto Chandra.</h2>
+<h2> Hey there! I'm Susanto Chandra Das.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+I'm a JavaScript Developer working with MERN Stack.
 - 🤔 &nbsp; 
 - 🎓 &nbsp; 
 - 💼 &nbsp;
@@ -31,7 +31,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 - 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Photoshop](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 
 <br/>
 
