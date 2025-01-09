@@ -53,3 +53,6 @@
 </p>
 
 ⭐️ From [Susanto github.com/Sushanta65]
+
+
+<img alt="Night Coding" src="https://i.ibb.co.com/mX10fwk/git-wrapped-Sushanta65-1.png" align="right"/>
