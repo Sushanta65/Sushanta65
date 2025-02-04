@@ -1,6 +1,6 @@
 <img alt="Susanto Chandra Das" src="https://i.ibb.co.com/9mLKP6pT/Github-banner-of-susanto-1.png"/>
 
-<h2 style="margin-top: 10px"> Hey there! I'm Susanto Chandra Das.</h2>
+<h1 style="margin-top: 10px"> Hey there! I'm Susanto Chandra Das.</h2>
 
 <div>
   <h2> About Me </h3>
@@ -14,7 +14,7 @@
 
 </div>
 
-<h2>Language and Technologies</p>
+<h2>My Skilled Language and Technologies</p>
 
 ###
 
@@ -47,13 +47,14 @@
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushanta65&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
    <img src="https://streak-stats.demolab.com?user=Sushanta65&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+   
 </div>
 
 ###
 
 
 
-<p align="left">Contact Information</p>
+<h2 align="left">Contact Information</p>
 
 ###
 
