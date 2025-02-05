@@ -10,9 +10,9 @@ A self-taught developer skilled in React.js and Next.js.
 Proficient in backend technologies like Node.js, Express.js, and MongoDB.<br/></p>
 🎓 &nbsp; Expert on Frontend with React.js and Next.js <br/>
 🎓 &nbsp; Proficient in Backend Development using Node.js, Express.js, and MongoDB. <br/>
-🛠 &nbsp; Enjoy to solve problems. <a href="https://susanto-portfolio.web.app/">Solved Problems.</a> <br/>
-🖥 &nbsp; Some Big Projects I'v done. <a href="https://susanto-portfolio.web.app/">Take a Tour.</a> <br/>
-📧 &nbsp; Want to connect? <a href="https://susanto-portfolio.web.app/">Click Here.</a> <br/>
+🛠 &nbsp; Enjoy to solve problems. <a href="https://susanto-portfolio.netlify.app/">Solved Problems.</a> <br/>
+🖥 &nbsp; Some Big Projects I'v done. <a href="https://susanto-portfolio.netlify.app/">Take a Tour.</a> <br/>
+📧 &nbsp; Want to connect? <a href="linkedin.com/in/susanto-chandra/">Click Here.</a> <br/>
 💼 &nbsp; I'm Open To Work.
 
 </div>
