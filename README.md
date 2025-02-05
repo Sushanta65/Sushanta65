@@ -1,6 +1,6 @@
 <img alt="Susanto Chandra Das" src="https://i.ibb.co.com/9mLKP6pT/Github-banner-of-susanto-1.png"/>
 
-<h1 style="margin-top: 10px"> Hey there! I'm Susanto Chandra Das. (Frontend Developer)</h2>
+<h1 style="margin-top: 10px"> Hey There! I'm Susanto Chandra Das. (Frontend Developer)</h2>
 
 
 <div>
@@ -44,7 +44,7 @@ Proficient in backend technologies like Node.js, Express.js, and MongoDB.<br/></
 </div>
 
 ###
-<h2>My contribution statistics</h2>
+<h2>My Contribution Statistics</h2>
 <div style="margin-top: 20px">
   <img src="https://github-readme-stats.vercel.app/api?username=Sushanta65&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
  
@@ -58,7 +58,7 @@ Proficient in backend technologies like Node.js, Express.js, and MongoDB.<br/></
 
 
 
-<h2 align="left">Contact Information</p>
+<h2 align="left">Socials and Contact Information</p>
 
 ###
 
@@ -76,10 +76,9 @@ Proficient in backend technologies like Node.js, Express.js, and MongoDB.<br/></
 
 ###
 
-<p align="left">susanto.chandra001@gmail.com / +8801923260216</p>
-
-###
-
+📍 **Location:** Gazipur, Dhaka, Bangladesh  
+📧 **Email:** susanto.chandra001@gmail.com  
+📞 **Phone:** +8801923260216
 
 
 <br/>
