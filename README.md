@@ -44,12 +44,13 @@ Proficient in backend technologies like Node.js, Express.js, and MongoDB.<br/></
 </div>
 
 ###
-<h2></h2>
+<h2>My contribution statistics</h2>
 <div style="margin-top: 20px">
   <img src="https://github-readme-stats.vercel.app/api?username=Sushanta65&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
  
  
    <img src="https://streak-stats.demolab.com?user=Sushanta65&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushanta65&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
    
 </div>
 
@@ -91,5 +92,4 @@ Proficient in backend technologies like Node.js, Express.js, and MongoDB.<br/></
 <a href="mailto:susanto.chandra001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-susanto.chandra001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Susanto github.com/Sushanta65]
 
