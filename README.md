@@ -1,10 +1,13 @@
 <img alt="Susanto Chandra Das" src="https://i.ibb.co.com/9mLKP6pT/Github-banner-of-susanto-1.png"/>
 
-<h1 style="margin-top: 10px"> Hey there! I'm Susanto Chandra Das.</h2>
+<h1 style="margin-top: 10px"> Hey there! I'm Susanto Chandra Das. (Frontend Developer)</h2>
+
 
 <div>
   <h2> About Me </h3>
-<p>I'm a Frontend Developer (MERN) passionate about building interactive web applications. <br/>Self-taught Frontend Developer skilled in React.js and Next.js<br/></p>
+<p>I'm a Frontend Developer (MERN) passionate about building interactive web applications.
+A self-taught developer skilled in React.js and Next.js.
+Proficient in backend technologies like Node.js, Express.js, and MongoDB.<br/></p>
 🎓 &nbsp; Expert on Frontend with React.js and Next.js <br/>
 🎓 &nbsp; Proficient in Backend Development using Node.js, Express.js, and MongoDB. <br/>
 🛠 &nbsp; Enjoy to solve problems. <a href="https://susanto-portfolio.web.app/">Solved Problems.</a> <br/>
@@ -45,7 +48,7 @@
 <div style="margin-top: 20px">
   <img src="https://github-readme-stats.vercel.app/api?username=Sushanta65&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushanta65&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ 
    <img src="https://streak-stats.demolab.com?user=Sushanta65&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
    
 </div>
